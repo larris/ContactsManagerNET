@@ -1,0 +1,32 @@
+{
+  "siteName": {
+    "value": "ContactManager3133"
+  },
+  "hostingPlanName": {
+    "value": "myExampleApp"
+  },
+  "siteLocation": {
+    "value": "West Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "serverName": {
+    "value": "contactmngr3133"
+  },
+  "serverLocation": {
+    "value": "West Europe"
+  },
+  "administratorLogin": {
+    "value": "dbadmin"
+  },
+  "administratorLoginPassword": {
+    "value": "Lazfandi1976"
+  },
+  "databaseName": {
+    "value": "ContactManager3133_db"
+  }
+}
